@@ -12,21 +12,21 @@ For now there is one version ready, Darkest, with a few different highlight colo
 
 ## Darkest
 
+### Blue
+
+![Blue](https://github.com/eggman314/chogori/raw/main/images/chogori-darkest-blue.png "Blue")
+
 ### Orange
 
 ![Orange](https://github.com/eggman314/chogori/raw/main/images/chogori-darkest-orange.png "Orange")
-
-### Red
-
-![Red](https://github.com/eggman314/chogori/raw/main/images/chogori-darkest-red.png "Red")
 
 ### Mint
 
 ![Mint](https://github.com/eggman314/chogori/raw/main/images/chogori-darkest-mint.png "Mint")
 
-### Blue
+### Red
 
-![Blue](https://github.com/eggman314/chogori/raw/main/images/chogori-darkest-blue.png "Blue")
+![Red](https://github.com/eggman314/chogori/raw/main/images/chogori-darkest-red.png "Red")
 
 ### Pink
 
