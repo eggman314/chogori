@@ -1,5 +1,5 @@
 {
-    "name": "Chogori Darkest Blue",
+    "name": "Chogori Darkest Orange",
     "type": "dark",
     "colors": {
         "activityBar.background": "#21232b",
@@ -24,7 +24,7 @@
         "editor.findMatchBackground": "#595b64e0",
         "editor.findMatchHighlightBackground": "#595b6470",
         "editor.foldBackground": "#5294e211",
-        "editor.foreground": "#ffffff",
+        "editor.foreground": "#dddddd",
         "editor.selectionBackground": "#595b6470",
         "editor.selectionHighlightBackground": "#595b6440",
         "editor.inactiveSelectionBackground": "#595b6440",
@@ -58,7 +58,7 @@
         "input.placeholderForeground": "#999999",
         "inputOption.activeBorder": "#282a33",
         "list.activeSelectionBackground": "#5294e2ee",
-        "list.activeSelectionForeground": "#fff",
+        "list.activeSelectionForeground": "#ffffff",
         "list.hoverBackground": "#595b6440",
         "list.hoverForeground": "#dddddd",
         "list.inactiveSelectionBackground": "#595b6440",
@@ -66,12 +66,12 @@
         "list.warningForeground": "#fb4141",
         "list.focusForeground": "#dddddd",
         "quickInputList.focusBackground": "#595b6440",
-        "menubar.selectionForeground": "#fff",
+        "menubar.selectionForeground": "#ffffff",
         "menubar.selectionBackground": "#282a33",
         "menubar.selectionBorder": "#282a33",
-        "menu.foreground": "#ddd",
+        "menu.foreground": "#dddddd",
         "menu.background": "#21232b",
-        "menu.selectionForeground": "#fff",
+        "menu.selectionForeground": "#ffffff",
         "menu.selectionBackground": "#5294e2ee",
         "menu.separatorBackground": "#282a33",
         "notificationCenter.border": "#282a33",
@@ -201,8 +201,7 @@
             "name": "Language Constants",
             "scope": [
                 "constant.language",
-                "support.constant",
-                "variable.language"
+                "support.constant"
             ],
             "settings": {
                 "foreground": "#5294e2"
@@ -212,7 +211,8 @@
             "name": "Variables",
             "scope": [
                 "variable",
-                "support.variable"
+                "support.variable",
+                "variable.language"
             ],
             "settings": {
                 "foreground": "#9cacc6"
@@ -222,7 +222,8 @@
             "name": "Functions",
             "scope": [
                 "entity.name.function",
-                "support.function"
+                "support.function",
+                "meta.function-call.python"
             ],
             "settings": {
                 "fontStyle": "italic",
@@ -279,7 +280,10 @@
         },
         {
             "name": "Strings",
-            "scope": "string",
+            "scope": [
+                "string",
+                "string.quoted.double.c"
+            ],
             "settings": {
                 "fontStyle": "",
                 "foreground": "#dddddd"
@@ -313,6 +317,7 @@
             "name": "Punctuation",
             "scope": "punctuation",
             "settings": {
+                "fontStyle": "",
                 "foreground": "#dddddd"
             }
         },
@@ -517,7 +522,7 @@
             "name": "Markup Lists",
             "scope": "markup.list",
             "settings": {
-                "foreground": "#eeeeee"
+                "foreground": "#ffffff"
             }
         },
         {
