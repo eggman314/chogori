@@ -93,7 +93,7 @@
         "scrollbarSlider.activeBackground": "#2eb398bb",
         "sash.hoverBorder": "#2eb398",
         "scrollbar.shadow": "#191919",
-        "selection.background": "#282a33",
+        "selection.background": "#595b64f0",
         "sideBar.background": "#21232b",
         "sideBar.foreground": "#dddddd",
         "sideBar.border": "#282a33",
