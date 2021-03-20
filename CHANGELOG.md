@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.5] - 2021-03-20
+
+- Updated the workbench text selection color
+
 ## [0.0.4] - 2021-03-13
 
 - Improved syntax highlighting for Python
