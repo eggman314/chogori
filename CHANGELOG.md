@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.0.5] - 2021-03-20
+## [0.0.6] - 2021-03-20
 
 - Updated the workbench text selection color
 
