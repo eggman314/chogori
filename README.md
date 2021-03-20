@@ -1,6 +1,6 @@
 # Chogori themes
 
-Chogori will be a set of dark themes for Visual Studio Code inspired in part by another
+Chogori will be a set of dark themes for Visual Studio Code inspired in part by (and based on) another
 VSCode theme called [Grueling Hare](https://marketplace.visualstudio.com/items?itemName=pureux.grueling-hare),
 which shows that fewer colors make for more readable code, and by the dark variant of the
 [Qogir family of themes](https://www.xfce-look.org/p/1230631/) for XFCE, GNOME, Gtk and
