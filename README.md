@@ -6,7 +6,7 @@ which shows that fewer colors make for more readable code, and by the dark varia
 [Qogir family of themes](https://www.xfce-look.org/p/1230631/) for XFCE, GNOME, Gtk and
 others. You will recognise the orange, mint and blue highlights below as coming from the
 Qogir Ubuntu, Manjaro and Blue themes, and I've also added the red highlight from the [Numix project](https://numixproject.github.io/),
-and a pink one that I thought looked nice.
+and a pink and a yellow that I thought looked nice.
 
 For now there is one version ready, Darkest, with a few different highlight colors. Later I may add Dark and Variant.
 
@@ -31,3 +31,7 @@ For now there is one version ready, Darkest, with a few different highlight colo
 ### Pink
 
 ![Pink](https://github.com/eggman314/chogori/raw/main/images/chogori-darkest-pink.png "Pink")
+
+### Yellow
+
+![Yellow](https://github.com/eggman314/chogori/raw/main/images/chogori-darkest-yellow.png "Yellow")
