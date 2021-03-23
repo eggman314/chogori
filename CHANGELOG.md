@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.7] - 2021-03-20
+
+- Add theme with yellow highlights
+
 ## [0.0.6] - 2021-03-20
 
 - Updated the workbench text selection color
